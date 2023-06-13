@@ -18,9 +18,8 @@ SSH public key
 
 The command to generate SSH key is: ssh-keygen -t rsa -b 2048 = -t for type and -b for bit.
 
-Come out of your repo to your home directory
+Come out of your repo to your home directory $ pwd
 
-$ pwd
 $ ssh-keygen -t rsa -b 2048
 
 Press enter key 3 times to avoid passphrase.
